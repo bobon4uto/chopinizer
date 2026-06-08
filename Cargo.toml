@@ -3,6 +3,10 @@ name = "chopinizer"
 version = "0.1.0"
 edition = "2024"
 
+description = "Chop str into tokens"
+license = "AGPL-3.0-or-later"
+repository = "https://github.com/bobon4uto/chopinizer"
+readme = "README.md"
 [dependencies]
 
 
